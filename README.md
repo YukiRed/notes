@@ -18,8 +18,7 @@ Just a notes of personal opinion
 - Qt
 
 ### Code Editing / IDE
-- IntelliJ
-- Android Studio
+- IntelliJ / Android Studio
 - Qt
 - Visual Studio Code
 
@@ -63,10 +62,19 @@ Just a notes of personal opinion
 - Best Vector Graphic Editor: Adobe Illustrator CC 2018
 
 
+### Architecture
+
+
+### 
+
+
 ## Tried
 ### Android Development
 - Native OEM (Java)
 - Web View Frameworks (PhoneGap, ionic)
 - Reactive View Frameworks (React Native)
 
+## Not Good + Waste of time + Need alot of computing power + Too much money
+- Visual Studio
+- 
 
