@@ -17,6 +17,12 @@ Just a notes of personal opinion
 ### Software Development
 - Qt
 
+### Code Editing / IDE
+- IntelliJ
+- Android Studio
+- Qt
+- Visual Studio Code
+
 
 ### Adobe Software
 ##### PDF
