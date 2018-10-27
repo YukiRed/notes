@@ -13,6 +13,7 @@ Just a notes of personal opinion
 - HTML
 - Dart (Replace JS)
 - Angular
+- NodeJS
 
 ### Software Development
 - Qt
