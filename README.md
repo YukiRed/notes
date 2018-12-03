@@ -35,8 +35,8 @@ Just a notes of personal opinion
 
 ##### Image
 - Best Image Editing Tool + Metadata : Adobe Photoshop CC
-- Best Raw Photo Management Tools : Adobe Lightroom CC (No Need)
-- Plugins : Nik Collection by DxO
+- Best Raw Photo Management Tools : Adobe Lightroom Classic CC (No Need)
+- Plugins : Nik Collection by DxO, Capture Monkey
 
 ##### 3D Image
 - Best : Adobe Dimension CC
